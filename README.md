@@ -41,7 +41,7 @@ Prije pokretanja bilo koje od funkcionalnosti (Teleop, SLAM, Navigacija) potrebn
 
 Za korištenje robota i njegovih funkcionalnosti udaljeno upravljanje (Teleop), SLAM-a i Navigacije se izvršava prateći poglavlja na službenom eManual [8. Basic Operation](http://emanual.robotis.com/docs/en/platform/turtlebot3/basic_operation/#basic-operation), [9. SLAM](http://emanual.robotis.com/docs/en/platform/turtlebot3/slam/#slam) i [10. Navigation](emanual.robotis.com/docs/en/platform/turtlebot3/navigation/#navigation).
 
-![Rezultat](https://raw.githubusercontent.com/davidmak2709/Turtlebot3Bike/images/result.jpg?token=AZK12u7CUszmOCo-tp1N7u1IOxgMelsEks5bLNWlwA%3D%3D)
+![Rezultat](https://raw.githubusercontent.com/davidmak2709/Turtlebot3Bike/images/result.jpg?token=AZK12u7CUszmOCo-tp1N7u1IOxgMelsEks5bLNWlwA%3D%3D width="200" height="400" )
 
 ## 6.Dodatak na projekt
 
