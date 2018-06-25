@@ -1,0 +1,2 @@
+Kod za OpenCR kontrolnu pločicu, u slučaju da se robot prilikom korištenja teleop-a rotira u suprotinom smjeru 
+dovoljno je zamjeniti ID kotača  1 i 2.
