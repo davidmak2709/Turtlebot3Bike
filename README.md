@@ -12,7 +12,7 @@ Robot složite slijedeći Turtlebot3 upute koje se nalaze u kutiji robota te pok
 
 ![Slike bike dizajn](http://emanual.robotis.com/assets/images/platform/turtlebot3/friends/friends_bike.png)
 
-Na ovom linku  možete pronači CAD model [Turtlebot3 Bike](https://cad.onshape.com/documents/e0db6e7fac208692fd867efa/w/c9f5e7c3e86bd0089cc1fc00/e/eb045c245b85ed8c9a0ad494). 
+Na ovom linku  možete pronaći CAD model [Turtlebot3 Bike](https://cad.onshape.com/documents/e0db6e7fac208692fd867efa/w/c9f5e7c3e86bd0089cc1fc00/e/eb045c245b85ed8c9a0ad494). 
 
 ## 2. Postavljanje motora i OpenCR
 
@@ -25,7 +25,10 @@ ID motora mora odgovarati konfiguraciji na slici, koje postavljamo korištenjem 
 
 Motoru s  ID-jem 3 potrebno je promjeniti način rada iz wheel mode u joint mode isto tako korištenjem OpenCR i defaultnog programa u Arduino IDE `File -> Examples -> OpenCR -> DynamixelWorkbench -> f_Mode_Change` .
 
-Po završteku procesa postavljanja motora na OpenCR pločicu uploadamo program koji se nalazi u bike direktoriju ovog Git repozitorija.
+
+Po završteku procesa postavljanja motora na OpenCR pločicu uploadamo program koji se nalazi u OpenCR direktoriju ovog Git repozitorija.
+
+U slučaju da se prilikom testiranja teleop-a robot rotira u suprotnom smjeru u programskom kodu (OpenCR/bike_motor_driver.h) zamjenite ID-jeve 1 i 2 za lijevi i desni kotač.
 
 ## 3. Raspberry Pi
 
