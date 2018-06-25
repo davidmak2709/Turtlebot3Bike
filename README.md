@@ -48,6 +48,5 @@ Za korištenje robota i njegovih funkcionalnosti udaljeno upravljanje (Teleop), 
 
 ## 6.Dodatak na projekt
 
-//TODO git repo za PUS
-
+Sam projekt je nadograđen na način da je implementirana mogućnost upravljanja robotom putem web sučelja i prijenosa streaminga s istog, aplikacija se nalazi [ovdje](https://github.com/Tnegulic/mob_rob_projekt)
 
